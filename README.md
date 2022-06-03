@@ -1,2 +1,2 @@
 # SurpriseHousing
-PredictingHouseSalepProice
+PredictingHouseSalepPrice
